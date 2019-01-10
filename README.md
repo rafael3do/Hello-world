@@ -1,5 +1,5 @@
 # Hello-world
-hello world simple and optimized in C# / Olá mundo simples e otimizado em C#
+hello world simple and optimized in C# / Olá mundo simples e otimizado em C# .
 
 First STEP 
 Open Visual Studio and press ctrl+shift+n
