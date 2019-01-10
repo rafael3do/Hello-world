@@ -21,6 +21,22 @@ Click in Start or press F5.
 In message console should appear: Hellow World.
 
 You project is finished. 
+
+Code complete :
+
+using System;
+
+namespace Hello_world
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World.");
+            Console.ReadKey();
+        }
+    }
+}
 __________________________________________________________________________________________________________________________
 Primeiro Passo
 Abra o Visual Studio e pressione ctrl+shift+n para criar um novo projeto
@@ -42,3 +58,19 @@ Clique em Executar ou pressione F5.
 Quando abrir o console de conter a mensagem: Olá Mundo.
 
 Seu projeto finalizado.
+
+Codigo completo:
+
+using System;
+
+namespace Olá_Mundo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Olá Mundo.");
+            Console.ReadKey();
+        }
+    }
+}
