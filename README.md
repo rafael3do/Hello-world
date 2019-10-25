@@ -5,6 +5,7 @@ First STEP
 Open Visual Studio and press ctrl+shift+n
 Select Language C# and console app.
 Name project hello world click ok.
+System completed and finish.
 
 Second STEP
 Delete this lines: 
@@ -42,6 +43,7 @@ Primeiro Passo
 Abra o Visual Studio e pressione ctrl+shift+n para criar um novo projeto
 Selecione a linguagem C# e escolha a aplicação de console.
 Nomei o projeto como Ola Mundo clique em ok.
+Sistema completo e concluido.
 
 Segundo Passo
 Delete essas linhas:
