@@ -1,6 +1,5 @@
 using System;
 
-
 namespace Olá_Mundo
 {
     class Program
